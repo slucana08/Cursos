@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cursos</string>
+    <string name="notas">Notas</string>
+    <string name="temarios">Temarios</string>
+    <string name="angular">Angular</string>
+    <string name="android">Android</string>
+    <string name="php">PHP</string>
+    <string name="java">Java</string>
+
+</resources>
